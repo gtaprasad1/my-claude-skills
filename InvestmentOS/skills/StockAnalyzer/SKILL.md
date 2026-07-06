@@ -25,70 +25,53 @@ The user may provide:
 
 # Analysis Workflow
 
-Perform the following analysis in order.
+Perform the following analysis based on the user's intent.
 
-## Step 1 – Business Analysis
+## Step 1 – Identify Intent
 
-Use:
+Determine whether the user wants:
 
-knowledge/business-analysis.md
-
-Determine:
-
-- Business Quality
-- Industry Strength
-- Competitive Advantage
-- Revenue Quality
+- Long-term Investment
+- Swing Trade
+- Existing Holding Review
+- Buy Decision
+- Sell Decision
 
 ---
 
-## Step 2 – Financial Analysis
+## Step 2 – Long-term Investment
 
-Use:
+Perform:
 
-knowledge/financial-analysis.md
-
-Determine:
-
-- Revenue Growth
-- Profitability
-- Cash Flow
-- Balance Sheet
-- Return Ratios
+1. Business Analysis
+2. Financial Analysis
+3. Valuation
 
 ---
 
-## Step 3 – Valuation
+## Step 3 – Swing Trade
 
-Use:
+Perform:
 
-knowledge/valuation.md
-
-Determine:
-
-- Relative Valuation
-- Historical Valuation
-- Margin of Safety
+1. Business Analysis
+2. Financial Analysis
+3. Risk Assessment
 
 ---
 
 ## Step 4 – Overall Assessment
 
-Summarize
+Summarize:
 
-Strengths
-
-Weaknesses
-
-Risks
-
-Opportunities
+- Strengths
+- Weaknesses
+- Risks
 
 ---
 
 ## Step 5 – Recommendation
 
-Choose ONE:
+Choose one:
 
 - Strong Buy
 - Buy
@@ -97,36 +80,4 @@ Choose ONE:
 - Reduce
 - Avoid
 
-Always explain WHY.
-
----
-
-# Output Format
-
-## Executive Summary
-
-...
-
-## Business Analysis
-
-...
-
-## Financial Analysis
-
-...
-
-## Valuation
-
-...
-
-## Key Risks
-
-...
-
-## Final Recommendation
-
-...
-
-## Confidence Level
-
-High / Medium / Low
+Always explain the reasoning.
